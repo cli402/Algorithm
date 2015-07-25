@@ -4,7 +4,7 @@ public static void main(String[] args){
 	int k = Integer.parseInt(args[0]);
 	RandomizedQueue<String> queu=new RandomizedQueue<String>();
 	while(!StdIn.isEmpty()){
-		queu.enqueue(Stdin.readString());
+		queu.enqueue(StdIn.readString());
 	}
 	if (queu.size()<k){
 		k=queu.size();

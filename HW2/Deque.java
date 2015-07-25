@@ -118,7 +118,7 @@ public class Deque<Item> implements Iterable<Item> {
       return new ItemIterator();
    }  
 
-   public void printqueue(){
+   private void printqueue(){
       System.out.println("Queue:[");
       Iterator test=this.iterator();
       while(test.hasNext()){

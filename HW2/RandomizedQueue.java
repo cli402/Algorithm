@@ -97,7 +97,7 @@ public class RandomizedQueue<Item> implements Iterable<Item> {
        return new Listiterator();
     }
 
-   public void printqueue(){
+   private void printqueue(){
     System.out.print("items are [ ");
      for (int i = 0; i < size; i++) {
        System.out.print((queue[i].toString()) + " ");
