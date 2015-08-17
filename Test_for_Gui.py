@@ -182,9 +182,9 @@ def person_choose():
         button_release()
         print Person_selected
     else:
-        if PersonVar.get()==1:
+        if PersonVar.get()==1 and Person_selected != 'Dong Gao':
             PersonVar.set(2)
-        else:
+        elif PersonVar.get() == 2 and Person_selected =='Dong Gao':
             PersonVar.set(1)
         print Person_selected
         warning_window()
