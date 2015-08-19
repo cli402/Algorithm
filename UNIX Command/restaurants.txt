@@ -1,0 +1,500 @@
+Refugio;Viva Taqueria
+Yan,Arnita,Rosetta,Ambrose,Simona,Ernest,Joey;Just A Taste
+Evelina;Fine Line Bistro
+Myrtie,Michal,Vanesa,Louanne,Frederick,Patsy;Maxie's Supper Club
+Beula,Stacy,Wendy,Elva;Heights Cafe
+Zulma,Avril,Leisha,Jammie,Seth,Marilu;Tamarind
+Ruth,Lynell,Leisha,Odessa,Vasiliki,Lida,Eva,Lucie;Mehak: Authentic Indian
+Ozella,Jazmin;Taste of Thai
+Lucienne,Marcelene,Vanesa,Ambrose,Vasiliki,Ernest;Ale House
+Stephine,Rea,Cristine;Glenwood Pines
+Stephine,Dominque,Ambrose,Seth,Anjelica,Shara,Junior;NorthStar House
+Elva,Joey,Thomasine,Vanessa;Mehak: Authentic Indian
+Patsy,Isadora,Michal,Marni,Marcelene,Thomasine,Clorinda;Bandwagon
+Ruth;Fine Line Bistro
+Clayton,Verda,Synthia,Ariel;Tamarind
+Ruth,Stacia,Leia,Louanne,Stacy;The Nines
+Joy,Beula,Clorinda,Tanesha,Genie,Stasia,Marni,Anabel;Alladin's
+Kori,Angle,Leilani,Vanessa,Genie,Alana,Ambrose,Magen,Loreen;Wegmans
+Leia,Alana,Millard;Ithaca Bakery
+Matilda;Ithaca Bakery
+Arnita;Asian
+Anne,Darcy;Carriage House Cafe
+Elva,Lyndon,Louanne,Ginette,Anne;Cafe Dewitt
+Santiago,Evelina,Millard,Anne,Louanne;Carriage House Cafe
+Santiago,Saturnina;Waffle Frolic
+Loreen;Taste of Thai
+Ardelle,Hulda,Cheri;Heights Cafe
+Ariel,Synthia,Clayton;Alladin's
+Vanessa,Tarra,Wendy,Renate,Demarcus,Samuel,Stacy;Moosewood
+Isadora,Lucie,Matilda,Wilfred,Odessa;Cafe Dewitt
+Ariel,Patsy,Tessa;Boatyard Grill
+Angle,Anjelica;Tamarind
+Patsy,Ariel,Kyung,Lyndon,Leisha,Beula;Heights Cafe
+Cheri,Ernest,Elva,Eva,So;Ithaca Bakery
+Barney,Santiago,Stasia,Stacy,Jazmin,Marceline,Marilu;Ithaca Bakery
+Alana,So;Saigon Kitchen
+Ariel,Lyndon;ZaZa's Cucina
+Tanisha,Loma,Roberta;Boatyard Grill
+Seth,Ashlea;Bandwagon
+Refugio,Ardelle,Joy,Lynell;Ale House
+Jazmin,Verda,Lida;Glenwood Pines
+Refugio,Stephine,Lynell;Glenwood Pines
+Tessa;Ithaca Bakery
+Refugio,Loma,Elva,Marceline,Eva;Viva Taqueria
+Vanesa,Ashlea,Lyndon,Rosetta,Beula;Moosewood
+Vasiliki,Leilani,Christopher,Wilfred;Heights Cafe
+Barney,Angla;Viva Taqueria
+Millard,Clorinda,Hulda,Eva;ZaZa's Cucina
+Lucie,Matilda,Millard,Stacy,Anne,Zulma;Ithaca Bakery
+Marceline;Collegetown Bagels
+Loma,Anabel;Ale House
+Matilda,Jazmin,Jammie,Patsy,Tanisha;Glenwood Pines
+Anne,Beula,Marni;Collegetown Bagels
+Ariel,Zulma,Mariette,Seth,Sima,Kyung,Odessa;Heights Cafe
+Evelina,Loma,So,Ginette,Vanessa;Hazelnut Kitchen
+Odessa,Vanessa,Ashlea;Glenwood Pines
+Ernest,Ariel,Isadora,Yan,Stacia;Just A Taste
+Wilfred,Christopher,Kori,Wendy,Tod,Vasiliki;Boatyard Grill
+Rosetta,Ozella,Marceline,Ruth,Claudia;Asian
+Saturnina,Renate;Ale House
+Avril;Glenwood Pines
+Kyung,Rosetta,Boyce;NorthStar House
+Marni,Ambrose,Anabel,Ashlea,Ozella;Madeline's
+Angle,Ozella,Christopher,Renate;Ale House
+Mariette,Claudia,Avril;Ithaca Bakery
+Leia,Samuel,Louanne,Junior,Eva,Jammie,Lucienne,Beula;Souvlaki House
+Wendy,Georgie;Five Guys Burgers
+Elva,Myrtie,Tanisha,Angle,Roberta,Sima,Loma;ZaZa's Cucina
+Roberta;Boatyard Grill
+Anabel,Santiago;Glenwood Pines
+Stepanie,Synthia,Jazmin,Ambrose,Jammie,Samuel,Mariette;Carriage House Cafe
+Stacy,Shara,Joey,Rosetta;Ithaca Bakery
+Tarra,Lyndon,Vasiliki,Elva,Loreen,Cristine;Ale House
+Vanessa,Sima,Kori,Marcelene,Lynell,Georgie,Demarcus,Renate;Waffle Frolic
+Vasiliki,Odessa,Refugio,Ariel,Junior,Stacia,Barney,So,Lyndon;Wegmans
+Marni,Cristine,Anjelica,Renate,Wendy,Jazmin,Mariette;Ithaca Bakery
+Marni,Vanesa;ZaZa's Cucina
+Anne,So,Michal,Loreen,Ariel,Clorinda,Lucienne;Waffle Frolic
+Seth,Lida,Avril,Loreen;Waffle Frolic
+Tod,Synthia,Tessa,Seth;Hazelnut Kitchen
+Tarra,Wendy,Angla,Lyndon,Synthia,Avril,Yan,Tanisha;Fine Line Bistro
+Jammie,Christopher,Seth,Stasia,Joy,Lida,Dominque,Vasiliki;The Nines
+Stacia,Avril,Verda,Junior,Ozella,Magen;Souvlaki House
+Patsy,Jazmin,Genie,Dominque,Mariette,Georgie;Maxie's Supper Club
+Tessa,Claudia,Thomasine,Lucie,Hulda,Junior,Ernest;Boatyard Grill
+Joey,Kori,Marceline,Tessa,Kyung,Patsy;Ale House
+Marceline,Saturnina,Frederick,Loreen,Yan,Leia,Marilu;Moosewood
+Millard,Marilu,Angle,Magen,Michal,Marni;Alladin's
+Georgie;Hazelnut Kitchen
+Stasia;NorthStar House
+Jazmin,Seth;Ithaca Bakery
+Isadora;Tamarind
+Christopher,Claudia;Stella's
+Kyung,Vanessa,Eva;Souvlaki House
+Tessa,Ashanti,Stepanie,Stephine,Alana,Roberta,Jammie,Dominque;Madeline's
+Eva,Loreen,Barney,Lucie,Cheri,Boyce;Purity Ice Cream
+Simona,Ambrose,Angle,Refugio,Mariette,Ruth,Clayton,Arnita;Stella's
+Jazmin,Genie,Vasiliki,Thomasine;Just A Taste
+Jazmin,Marilu,Loma,Thomasine,Stasia,Refugio,Genie;Maxie's Supper Club
+Marilu,Renate,Marcelene,Yan,Clayton,Matilda,So,Anjelica;Maxie's Supper Club
+Georgie,Ozella,Elva,Samuel,Jammie,Renate;Carriage House Cafe
+Patsy,Cristine,Stephine,Ashanti;Heights Cafe
+Arnita;Ithaca Bakery
+Cheri,Vasiliki,Eva,Joey,Ashanti,Angla,Lida,Frederick;Ithaca Bakery
+Roberta,Christopher,Synthia,Anne,Thomasine,Anjelica,Georgie,Ashanti;Waffle Frolic
+Stepanie,Seth,Alana,Angla,Patsy,Boyce,Wilfred;Antlers
+Stasia,Ruth,Mariette;Wegmans
+Vasiliki,Joy,Loreen,Leilani,Loma;Carriage House Cafe
+Claudia,Simona,Cristine,Sima,Lida,Wilfred,Refugio;Taste of Thai
+Dominque,Synthia;Madeline's
+Lyndon,Tod,Myrtie;Five Guys Burgers
+Claudia,Leia,Vanessa;Antlers
+Stephine,Cristine;Boatyard Grill
+Lynell,Roberta,Anne,Rea,Anjelica,Georgie,Lyndon,Cristine,Seth;Bandwagon
+Anjelica,Lyndon;Purity Ice Cream
+Tarra,Refugio,Ambrose;Wegmans
+Angla,Kyung,Ardelle;Just A Taste
+Claudia,Synthia,Junior,Ashanti,Ashlea,Stephine,Leia;Collegetown Bagels
+Millard,Tarra;Mehak: Authentic Indian
+Elva,Anabel,Verda,Cheri,Vasiliki,Loreen;Five Guys Burgers
+Ariel,Roberta,Ashlea,Tanesha,Isadora,Lida;Antlers
+Alana,Evelina,Michal,Lucienne,Mariette,So,Anne,Stacy,Rea;Boatyard Grill
+Jammie;Ithaca Bakery
+Eva,Wendy;ZaZa's Cucina
+Roberta,Anjelica,Stasia,Angle,Arnita,Marni,Renate;The Nines
+Louanne;NorthStar House
+Joy,Yan,Lida,Stepanie,Tessa,Ambrose,Jazmin,Beula,Jammie;Collegetown Bagels
+Millard,Stepanie,Angle,Eva,Tod,Vasiliki;Ale House
+Wendy,Yan,Stacy,So,Alana,Claudia,Ruth;Moosewood
+Roberta,Ashlea,Marcelene,Lucienne,Claudia,Ginette;Boatyard Grill
+Zulma,Stacy,Verda,Millard,Lida,Angle,Genie,Wilfred,Vasiliki;Waffle Frolic
+Kyung,Junior,Angla,Myrtie,Roberta,Christopher,Rea,Wilfred;Hazelnut Kitchen
+Demarcus,Kyung,Stacia,Patsy,Simona,Wendy,Louanne;Madeline's
+Marilu,Seth,Tessa;Alladin's
+So,Simona;Glenwood Pines
+Tod,Ardelle,Stepanie,Kyung,Eva,Anjelica;Just A Taste
+Marceline,Myrtie,Loma,Tod,Cheri;Five Guys Burgers
+Lucienne,Lynell,Angla,Sima;Mehak: Authentic Indian
+Rea,Ambrose;Hazelnut Kitchen
+Wilfred;Collegetown Bagels
+Ashanti,Refugio,Matilda,Stepanie;Saigon Kitchen
+Michal;Ithaca Bakery
+Thomasine,Vanesa;Maxie's Supper Club
+Magen,Marceline,Loreen,Millard;Purity Ice Cream
+Ruth,Lucie,Marceline,Tarra;ZaZa's Cucina
+Cheri,Boyce,Leilani,Lyndon,Yan,Refugio,Georgie,Saturnina,Wendy;Collegetown Bagels
+Myrtie,Patsy,Vanesa,Anjelica,Evelina,Zulma;Five Guys Burgers
+Vanessa,Alana,Vanesa,Mariette;ZaZa's Cucina
+Boyce,Marcelene,Tarra,Loma;Waffle Frolic
+Anne;Bandwagon
+Boyce,Kori,Darcy;Madeline's
+Ernest;Sticky Rice
+Ambrose,Alana,Genie,Yan,Saturnina,Frederick,Boyce;Carriage House Cafe
+Beula,Vanesa,Avril,Stasia,Seth,Ginette,Leia;Purity Ice Cream
+Rea;Stella's
+Boyce,Louanne,Ariel;Taste of Thai
+Evelina,So,Verda;Viva Taqueria
+Millard;Sticky Rice
+Ginette;Maxie's Supper Club
+Jazmin,Eva,Isadora,Alana,Ozella,Genie,Myrtie;Sticky Rice
+Kyung,Ernest,Wendy,Stepanie;Moosewood
+Vanesa,Myrtie,Marcelene,Boyce,Rosetta,Wilfred,Verda,Genie;Asian
+Junior;Taste of Thai
+Vanesa,Barney;Purity Ice Cream
+Roberta,Wendy,Cristine,Leilani,Kori,Ardelle;Ale House
+Stasia,Anjelica,Hulda,Synthia,Vanessa,Dominque;Madeline's
+Loma,Elva,Marilu,Joey,Jammie,Isadora,Junior;Madeline's
+Sima,Millard,Mariette,Lyndon,Dominque,Arnita,Avril,Alana;Boatyard Grill
+Clayton,Saturnina,Jammie,Lynell;Cafe Dewitt
+Ashanti;Asian
+Marcelene;Collegetown Bagels
+Shara,Sima,Joey,Dominque,Christopher,Seth,Boyce;Purity Ice Cream
+Anabel,Anjelica,Mariette;Moosewood
+Lucienne,Ashanti,Marni,Clorinda,Santiago,Joey,Vasiliki;NorthStar House
+Marceline,Alana,Frederick,Verda;Tamarind
+Shara,Stasia,Lyndon,Santiago,Anjelica,Verda,Barney;Purity Ice Cream
+Junior,Matilda,Joy,Wendy;Madeline's
+Zulma,Lucienne,Ashlea,Stephine,Junior,Stacy,Cheri,Dominque,Clorinda;Maxie's Supper Club
+Ruth,Roberta,Michal,Beula,Genie;NorthStar House
+Marni,Rosetta;Wegmans
+Stepanie;Just A Taste
+Stacia,Patsy,Saturnina,Ambrose;Asian
+Saturnina,Kyung,Odessa,Angle,Anne,Joy;Taste of Thai
+Rosetta,Lucienne,Boyce,Roberta,Evelina;Fine Line Bistro
+Tod,Ashanti,Millard;Tamarind
+Roberta,Anne,Stepanie;Sticky Rice
+Demarcus;Taste of Thai
+Leisha,Angle,Stacia,Matilda,Stephine,Wilfred;Sticky Rice
+Synthia,Roberta,Genie,Sima,Jazmin,Saturnina,Stacy;Wegmans
+Shara,Ozella,Lida,Leia,Joey,Loma,Renate,Jammie,Ginette;Mehak: Authentic Indian
+Tanisha,Thomasine,Yan,Ginette,Vanesa,Tod,Angle,Claudia,Loma;Antlers
+Frederick;Five Guys Burgers
+Mariette,Marni,Ambrose,Kori,Cristine;Purity Ice Cream
+Vasiliki;Purity Ice Cream
+Ardelle,Jazmin,Louanne,Joy,Mariette;Heights Cafe
+Cheri,So,Patsy,Genie,Odessa,Arnita,Shara;Five Guys Burgers
+Lyndon,Avril,Kori,Evelina,Demarcus,Loreen,Millard;Ale House
+Patsy,Jammie,Wilfred,Junior,Mariette,Michal;Ale House
+Clayton,Lucienne,Joy,Kyung,Rosetta,Marceline;Glenwood Pines
+Lucienne;Waffle Frolic
+Anabel,Claudia,Demarcus;The Nines
+Michal,Marceline,Demarcus,Lucienne;Saigon Kitchen
+Tanisha,Louanne,Sima,Marilu,Vanessa,Refugio,Arnita,Santiago,Rosetta;The Nines
+Magen,Wilfred,Arnita;Hazelnut Kitchen
+Tanisha,Marceline,Seth;Heights Cafe
+Lynell,Simona,Joey,Lucienne,Leilani,Ginette,Stepanie,Ernest;Waffle Frolic
+So,Sima,Clorinda;Boatyard Grill
+Junior,Claudia,Anabel,Leilani,Wendy,Hulda;Heights Cafe
+Tarra;Alladin's
+Ruth,Sima,Myrtie;Alladin's
+Ashlea,Seth,Loma,Isadora,Jazmin,Synthia,Cheri,Dominque;Asian
+Vasiliki;Hazelnut Kitchen
+Tanesha,Matilda,Rosetta,Roberta,Angla,Leilani,Ernest,Lucie,Odessa;Purity Ice Cream
+Joey,Darcy,Yan;Fine Line Bistro
+Wendy,Tarra,Jazmin,Elva,Clorinda,Jammie,Refugio,Ambrose;Hazelnut Kitchen
+Leilani,Isadora,Joey;Just A Taste
+Joey,Renate,Clayton;Collegetown Bagels
+Marceline;Hazelnut Kitchen
+Renate,Hulda,Tanesha,Evelina,Anjelica,Tanisha,Loma;The Nines
+Leisha,Rea;Heights Cafe
+Patsy,Stepanie;Madeline's
+Joy,Santiago;Heights Cafe
+Patsy,Dominque,Odessa,Kyung,Yan,Simona;Heights Cafe
+Anabel,Seth,Tanisha,Arnita,Cheri,Vasiliki,Stacy,Lucienne;Souvlaki House
+Renate,Stephine,Jazmin,Elva,Anjelica;Bandwagon
+Vanessa,Loreen,Joey,Anne,Ozella,Zulma,Loma,Marceline;Maxie's Supper Club
+Frederick,Angle,Claudia,Yan,Verda,Ardelle,Millard,Clorinda;Antlers
+Anabel,Marcelene,Angla,Seth,Dominque,Lucienne,Genie;Ithaca Bakery
+Stacy;Ithaca Bakery
+Lida,Eva,Anjelica,Sima,Angle,Beula,Leia,Vasiliki;Purity Ice Cream
+Rosetta,Ernest,Leisha,Louanne,Lyndon,Ashlea,Tanesha,Lucie;The Nines
+Saturnina,Boyce,Ginette;Boatyard Grill
+Loma,Magen,Eva,Isadora,Boyce;Ithaca Bakery
+Ozella;Carriage House Cafe
+Ginette,Cheri,Leia,Arnita;Waffle Frolic
+Tanisha,Sima,Demarcus,Wendy,Vasiliki,Clorinda,Eva,Anne;Ale House
+Junior,Lucienne,Synthia,Genie,Myrtie;Purity Ice Cream
+Yan;Just A Taste
+Christopher,Renate,Ashlea,Ginette,Matilda,Stephine,Seth;Fine Line Bistro
+Cristine,Avril,Myrtie,Boyce,Anjelica,Ardelle,Simona;Saigon Kitchen
+Leia,Stacia,Ernest,Anabel,Samuel,Wendy,Angla,Junior;Saigon Kitchen
+Stacia,Jazmin,Elva,Santiago,Junior,Angla,Loreen,Hulda,Marilu;Just A Taste
+Ashlea,Darcy,Georgie;Ithaca Bakery
+Santiago,Avril,Tod,Leisha;Glenwood Pines
+Michal,Jammie,Barney,Louanne,Verda;Alladin's
+Mariette,Tanesha,Ernest,Leisha,Ashlea,Shara,Marceline;Purity Ice Cream
+Ashanti,Shara,Leilani,Angla,So,Loma,Joey;Asian
+Kori;Mehak: Authentic Indian
+Stacy;Madeline's
+Dominque,Arnita,Evelina,Leia,Anjelica,Stephine,Ginette,Tanisha;The Nines
+Marilu,Ashanti,Simona,Tanesha,Boyce;Ale House
+Demarcus;Madeline's
+Marcelene,Arnita;Viva Taqueria
+Marni,Ashlea,Samuel,Shara,Dominque,Darcy,Frederick;The Nines
+Alana,Elva,Anne,Lynell,Leisha,Wilfred,Stacy;Ale House
+Refugio,Zulma,Arnita,Cristine,Demarcus,Angla,Renate;Madeline's
+Vanessa,Ariel,Vasiliki,Ernest,Clorinda,Genie;Carriage House Cafe
+Lyndon;Just A Taste
+Verda;Asian
+Tanesha,Christopher,Synthia;Just A Taste
+Loma,Evelina;Purity Ice Cream
+Cheri;Tamarind
+Lyndon,Marceline,Frederick,Renate,Kyung,So,Eva,Wilfred,Demarcus;Ithaca Bakery
+Marcelene,Odessa;Boatyard Grill
+Tessa;Just A Taste
+Rosetta,Ashanti,Tod,Synthia,Loma,Claudia;Ithaca Bakery
+Joey,Ambrose,Tanesha,Magen;Tamarind
+Simona,Samuel,Leilani,Marni,Lida,Refugio,Matilda,Santiago,Stephine;The Nines
+Arnita,Ginette;Alladin's
+Wendy,Lucie,Myrtie;Fine Line Bistro
+Ginette;Ithaca Bakery
+Stasia,Marni,Junior,Jazmin,Clayton,Loreen,Stacy;Taste of Thai
+Zulma;Just A Taste
+Yan,Stasia,Ruth,Sima,Zulma,Eva;ZaZa's Cucina
+Marceline;Maxie's Supper Club
+Barney,Ariel,Leilani,Darcy,Ozella,Ambrose,So;The Nines
+Ariel,Tessa,Marceline,Verda;Purity Ice Cream
+Vanesa,Leia,Tessa,Michal,Rosetta,Sima,Saturnina;Just A Taste
+Vanessa,Lida,Samuel,Lyndon,Kyung,Stepanie,Avril;Sticky Rice
+Shara,Vasiliki,Clorinda,Ozella,Zulma,Stepanie;Stella's
+Loreen,Barney,Yan,Frederick,Wendy,Lucienne,Cristine,Stasia,Tarra;Madeline's
+Sima,Isadora,Ruth,Elva,Genie,Ozella,Claudia,Roberta;Purity Ice Cream
+Simona,Sima,Lida;Tamarind
+Thomasine;Fine Line Bistro
+Stasia,Renate,Magen;Carriage House Cafe
+Anjelica,Lida,Yan,Clayton,Louanne,Claudia,Rea,Ambrose;Carriage House Cafe
+Zulma,Patsy,Wendy;The Nines
+Rea,Genie,Marceline,Cheri,Evelina,Ashlea,Ariel;Taste of Thai
+Santiago,Avril,Lynell,Tod,Jammie,Renate,Cheri,Lida;Ithaca Bakery
+Santiago,Vasiliki,Verda,Clorinda,Renate,Ardelle,So,Wendy;Cafe Dewitt
+Genie,Michal,Roberta;Ithaca Bakery
+Verda,Shara,Rosetta,Eva,Stasia,Darcy,Stacy,Ernest;ZaZa's Cucina
+Hulda,Lucienne;Moosewood
+Alana,Synthia,Ashanti,Demarcus,Anne,Elva;Collegetown Bagels
+Rosetta,Millard,Clayton,Isadora,Zulma,Thomasine;Fine Line Bistro
+Angla,Lucie;Madeline's
+Arnita;Hazelnut Kitchen
+Anjelica,Ashlea,Avril,Jammie,Loreen,Marilu,Darcy;Purity Ice Cream
+Santiago,Ozella,Rea,Synthia,Ambrose,Christopher;Tamarind
+Tessa,Joey,Saturnina,Cristine,Sima,Myrtie,Alana;Antlers
+Loreen,Boyce;The Nines
+Odessa,Sima,Stacy;Hazelnut Kitchen
+Loreen;Maxie's Supper Club
+Beula,Lynell,Vanessa,Myrtie,Stephine,Loma;Fine Line Bistro
+Tessa;Carriage House Cafe
+Ginette,Stephine,Stepanie,Claudia,Vasiliki,Christopher;Antlers
+Cheri;Cafe Dewitt
+Joey,Myrtie,Ginette,Lyndon,Tanisha,Shara,Stasia,Ambrose;Viva Taqueria
+Lynell,Zulma,Tanisha,Santiago,Matilda;Ale House
+Simona,Loreen;Boatyard Grill
+Seth,Leilani;Viva Taqueria
+So,Evelina,Anne,Shara,Joey,Lyndon,Lucie;Just A Taste
+Ambrose,Rea;Stella's
+Simona,Michal,Hulda,Rosetta,Christopher,Ozella,Clorinda;Cafe Dewitt
+Michal,Leia,Angle,Elva,Stephine,Millard;Taste of Thai
+Joey,Frederick,Tod,Evelina,Yan,Leia;Ale House
+Anjelica,Clayton,Leia,Cristine,Saturnina,Roberta,Boyce,Isadora;Ithaca Bakery
+Isadora,Stacia,Samuel,Vasiliki,Leilani,Frederick;Hazelnut Kitchen
+Anne;Saigon Kitchen
+Kyung,Wendy,Arnita,Lynell,Lida,Samuel;Collegetown Bagels
+Lyndon,Tanisha,Anabel,Joy,Marilu,Santiago;Heights Cafe
+Tessa,Eva,Tarra;Waffle Frolic
+Stepanie,Matilda,Tanisha,Marni,Claudia,Kori;Purity Ice Cream
+Tanesha,Eva,Lucienne,Lyndon,Loreen,Christopher,Arnita;Souvlaki House
+Kyung;Maxie's Supper Club
+Barney,Seth,Patsy,Verda,Anne,Ashlea,Yan;Ithaca Bakery
+Matilda,Marilu;Taste of Thai
+Georgie,Claudia;Five Guys Burgers
+Millard;Madeline's
+Seth,Vanessa,Ardelle,Kyung,Renate,Odessa;Collegetown Bagels
+Sima,Anabel;Purity Ice Cream
+Louanne,Tanesha;Just A Taste
+Marilu;Souvlaki House
+Kyung;ZaZa's Cucina
+Leilani,Ariel,Renate,Simona;Ithaca Bakery
+Dominque,Roberta,Kyung,Tarra,Millard,Loreen,Santiago,Odessa;Ithaca Bakery
+Wilfred;Heights Cafe
+Lucienne,Christopher,Leia,Alana,Renate;Souvlaki House
+Jammie,Wendy,Dominque,Matilda,Ariel,Anne,Ozella,Vanessa;Boatyard Grill
+Kori,Renate,Saturnina,Jammie,Clorinda,Rea,Ariel,Thomasine;Five Guys Burgers
+Lida,Refugio,Wilfred,Angle,Joey,Genie;ZaZa's Cucina
+Hulda,Roberta,Samuel,Anabel,Jazmin,Kori;ZaZa's Cucina
+Vanesa,Roberta,Michal,Alana,Stephine,Mariette,Georgie;Tamarind
+Alana,Vasiliki;Maxie's Supper Club
+Dominque,Stephine,Wilfred,Beula,Louanne,Vasiliki;Just A Taste
+Rea,Ambrose,Stacia,Marceline,Anabel;Ale House
+Anne,Ardelle,Roberta,Vanesa,Elva,Millard;Just A Taste
+Frederick,Rea,Saturnina,Marilu,Stephine;Glenwood Pines
+Roberta,Demarcus,Cristine;Mehak: Authentic Indian
+Genie,Leia,Louanne,Tod,Ruth,Joy,So,Ambrose;Hazelnut Kitchen
+Clorinda;Collegetown Bagels
+Wendy,Beula,Michal,Stepanie,Darcy,Evelina;Ale House
+Eva,Marni,Anjelica,Tanisha,Refugio,Frederick,Ashanti,Alana;Stella's
+Stasia,Tod,Christopher,Clorinda,Shara,Thomasine,Ariel,Vanesa,Saturnina;Fine Line Bistro
+Shara,Rea,Simona,Darcy,Zulma,Ginette,Genie,Claudia;Maxie's Supper Club
+Renate,Ardelle;Boatyard Grill
+Marni,Matilda,Synthia,Leia,Christopher,Sima,Anjelica,Joey;Collegetown Bagels
+Anne,Leisha,Millard,Ariel,Thomasine,Matilda,Renate,Louanne;Stella's
+Isadora,Boyce,Evelina;Cafe Dewitt
+Lyndon,Marceline;Hazelnut Kitchen
+Rosetta,Avril,Anjelica,Alana,Renate,Tanesha,Ashanti;Wegmans
+Refugio,Wilfred,Joey,Evelina,Tanesha,Seth,Loma,Vanesa;Collegetown Bagels
+Sima;Wegmans
+Tanisha,Boyce,Zulma,Wendy,Patsy,Thomasine;Wegmans
+Clayton,Junior,Demarcus,Ginette,Odessa,Georgie,Ardelle,Simona,Anne;Maxie's Supper Club
+Leilani;Purity Ice Cream
+Stacy,Simona,Stephine,Samuel,Boyce,Anjelica,Tanisha;Hazelnut Kitchen
+Zulma,Thomasine;Mehak: Authentic Indian
+Vanesa,Cristine,Vasiliki,Samuel,Alana,Marni;Bandwagon
+Genie;Boatyard Grill
+Roberta,Renate,Wilfred,Millard,Clorinda,Verda;Tamarind
+Ashanti,Ruth,Joey,Kyung,Jammie,Arnita,Ozella,Leilani;Alladin's
+Samuel,Ashanti,Leilani,Isadora,Anabel,Genie,Leia;Souvlaki House
+Frederick,Leia,Avril,Ozella;Saigon Kitchen
+Leia,Anabel,Marni,Renate,Angla,Lida,Tanesha,Ardelle,Lynell;Maxie's Supper Club
+Michal,Elva,Saturnina;The Nines
+Eva,Demarcus,Alana,Loreen,Tanesha,Anjelica,Ashanti,Magen;NorthStar House
+Eva;The Nines
+Darcy,Patsy,Michal,Samuel;Madeline's
+Anabel,Darcy,Lyndon,Isadora,Kyung;Five Guys Burgers
+Saturnina;The Nines
+Angla,Tod,Ashlea,Leia,Marilu,Marceline,Refugio,Mariette;Moosewood
+Magen,Verda,Renate,Marni;Ithaca Bakery
+Claudia,Junior,Myrtie,Christopher,Patsy,Kori,Anne,Rosetta,Clorinda;ZaZa's Cucina
+Anabel,Elva,Louanne,Lucie,Loreen;Madeline's
+Lynell,Vanesa,Joey,Jazmin,Yan,Wendy,Darcy;Cafe Dewitt
+Leilani,Wilfred,Marilu,Vanesa,Hulda,Rea,Shara;Waffle Frolic
+Ambrose,Zulma,Anne,Marceline,Loreen;Viva Taqueria
+Lida,Loma;Alladin's
+Lucienne,Stacia,Millard,Angle,Ashlea;Boatyard Grill
+Marni,Seth;Fine Line Bistro
+Cheri,Loreen,Lucienne,Tanisha,Beula,Lucie,Leilani,Santiago,Magen;Five Guys Burgers
+Saturnina,Barney,Mariette,Leilani,Myrtie,Renate;Heights Cafe
+Angla,Ambrose;Cafe Dewitt
+Anabel,Tanisha;Cafe Dewitt
+Loreen,Cheri,Yan,Darcy,Lucienne,Refugio,Leisha;Ale House
+Stasia;Heights Cafe
+Frederick,Lyndon,Tod,Tarra,Synthia,Junior,Marcelene;ZaZa's Cucina
+Joy,Avril;Madeline's
+Elva,So,Isadora,Stacia,Ashanti,Tarra;Wegmans
+Joy;Hazelnut Kitchen
+Kori,Patsy,Kyung,Tarra,Avril;The Nines
+Millard,Demarcus,Marceline,Marcelene,Tarra;NorthStar House
+Lynell,Leia;Carriage House Cafe
+Vanessa;Viva Taqueria
+Stacia;Ithaca Bakery
+Ashanti,Rosetta,Arnita,Loreen,Roberta,Anabel;Alladin's
+Leisha,Genie,Tanisha,Hulda,Ariel;Bandwagon
+Darcy,Barney,Odessa,Ashanti,Seth,Lynell,Vanesa,Ashlea;Cafe Dewitt
+Synthia,Seth;Heights Cafe
+Ruth,Vanesa,Wilfred,Hulda,Evelina,Ashlea;The Nines
+Marni,Genie,Shara,Boyce,Alana,Arnita;NorthStar House
+Eva,Darcy,Refugio,Wendy,Ruth,Marceline,Angle,Tarra,Elva;Taste of Thai
+Lucie,Yan,Patsy,Leisha;ZaZa's Cucina
+Clorinda,Rosetta,Renate,Evelina,Angle,Tarra,Joy;Madeline's
+Yan,Dominque;Ithaca Bakery
+Demarcus,Wilfred,Kori,Barney,Clayton,Dominque;Ale House
+Ginette,Seth,Vanessa,Hulda,Odessa;Maxie's Supper Club
+Millard,Leisha,Tanisha;Glenwood Pines
+Roberta,Ashlea,Beula,Genie,Stacy,Anjelica,Elva;Tamarind
+Beula,Loma,Barney,Louanne,Genie,Seth,Anabel,Ginette;Saigon Kitchen
+Tanisha,Demarcus,Sima,Junior;Alladin's
+Stepanie,Magen,Joy,Claudia,Renate,Genie,Junior,Stacy;Purity Ice Cream
+Clorinda,Millard,Clayton,Ardelle,Lucienne,Leilani,Lynell;Ithaca Bakery
+Boyce;Saigon Kitchen
+Ozella,Rea,Saturnina,Roberta,Matilda,Clayton,Evelina;The Nines
+Genie,Anne,Saturnina,Joy,Arnita,Tod,Ernest,Lyndon;Collegetown Bagels
+Verda;Stella's
+Millard,Junior,Rea,Santiago,Ozella;Glenwood Pines
+Leilani,Ambrose,Roberta,Marceline,Myrtie,Synthia,Boyce,Ernest;Boatyard Grill
+Loma,Refugio,Leisha,Junior,Seth,Beula;Waffle Frolic
+Eva,Lucie,Patsy,Vanessa,Frederick,Renate,Stacia,Ambrose;Sticky Rice
+So,Anabel,Lyndon,Roberta,Mariette,Frederick,Tessa,Rosetta;NorthStar House
+Boyce,Leia,Myrtie,Ashanti,Sima,Tarra,Evelina,Georgie,Darcy;Souvlaki House
+Lynell,Boyce,Marni,Zulma,Ardelle;Tamarind
+Stasia,Clorinda;The Nines
+Tessa,Myrtie,Kyung,Tod,Clayton;Viva Taqueria
+Wendy,Cheri,Thomasine,Avril,Leisha,Isadora;NorthStar House
+Tarra,Samuel,Jazmin,Santiago;Souvlaki House
+Loma,Loreen;Mehak: Authentic Indian
+Darcy,Stacia,Lucienne,Matilda;Waffle Frolic
+Marilu,Joey,Lida,Seth,Tanesha,Darcy,Matilda,Shara,Clorinda;Sticky Rice
+Wilfred,Beula,Marceline,Junior,So,Vanessa,Lida;Collegetown Bagels
+Leisha,Millard,Odessa,Ariel,Yan,Claudia,Louanne,Stacy,Darcy;Carriage House Cafe
+Stacia,Anjelica,Lucie,Myrtie;Viva Taqueria
+Boyce,Yan,Leilani,Shara,Marceline,Odessa,Kori,Tessa,Vanessa;Fine Line Bistro
+Jazmin,Leilani,Beula,Claudia,Clorinda;Madeline's
+Arnita,Thomasine,Ashanti,Beula,Vanesa,Michal,Vasiliki,Leilani,Wilfred;Saigon Kitchen
+Eva,Alana,Ambrose;Ithaca Bakery
+Claudia,Stasia,Matilda,Tanesha,Seth;Viva Taqueria
+Refugio,Kori,Stepanie,Vanesa,Tanesha;The Nines
+Odessa;Maxie's Supper Club
+Anabel,Renate,Tarra,Wendy,Samuel,Isadora,Patsy;Bandwagon
+Genie,Angla,Leia,Odessa,Tanesha;Ithaca Bakery
+Loma,Shara,Avril,Arnita,Anabel,Tarra,Clayton,Odessa,Demarcus;ZaZa's Cucina
+Stephine,Clayton,Kori;Glenwood Pines
+Frederick,Wendy,Anjelica,Michal,Ashlea;Waffle Frolic
+Michal,Stacy,Patsy,Barney,Ginette,Tessa,Angla,Seth,Tanisha;Hazelnut Kitchen
+Clayton,Rosetta,Kyung,Anne,Demarcus,Ashanti,Vasiliki,Millard;Collegetown Bagels
+Ozella;Antlers
+Stacy,Alana,Marni,Isadora,Georgie,Genie,Vanessa,Marilu,Wendy;Moosewood
+Zulma;Just A Taste
+Christopher,Ardelle,Lynell,Avril,Dominque,Joey,Tarra,Lyndon,Mariette;NorthStar House
+Boyce,Roberta;Viva Taqueria
+Vasiliki,Shara,Eva,Tessa,Loreen,Claudia;NorthStar House
+Synthia,Roberta,Zulma,Samuel,Magen,Eva;Alladin's
+Marcelene,Odessa,Thomasine,Cheri,Boyce,Genie;Heights Cafe
+Anne,Darcy,Vanessa,Sima,Ashlea,Joey,Eva;Ithaca Bakery
+Isadora,Lynell,Alana;Wegmans
+Matilda,Marni;Stella's
+Ruth,Joey,So;Mehak: Authentic Indian
+Thomasine,Ruth,Georgie,Cristine,Dominque,Marni;Sticky Rice
+Anjelica,Marni,Cristine,Matilda,Synthia,Michal,Rea,Dominque,Isadora;Alladin's
+Wilfred,Yan,Seth,Stepanie,Demarcus,Leisha,Darcy,Leia;Sticky Rice
+Vasiliki,Lida,Refugio,Ernest,Cheri,Ozella,Jammie;Tamarind
+Ardelle,Thomasine,Tessa,Seth,Ashlea,Jazmin,Rea;Stella's
+Christopher,Stasia,Dominque;Viva Taqueria
+Vanesa,Zulma,Beula,Ardelle,Leilani,Wilfred,Matilda,Avril,Jazmin;Mehak: Authentic Indian
+Evelina,Joey,Michal,Thomasine,Stacy,Synthia;Boatyard Grill
+Simona,Tarra,Samuel,Ginette,Arnita,Leia,Anabel;Waffle Frolic
+Seth,Tarra,Saturnina,Odessa,Tanesha,Leisha,Roberta,Anjelica;Wegmans
+Leilani,Joey,Lynell,Verda,Stacy;ZaZa's Cucina
+Lucienne,Joey,Verda;NorthStar House
+Thomasine,Tarra,Leia,Renate,Ashlea;Just A Taste
+Sima,Christopher,Matilda,Hulda,Roberta,So,Kori;Purity Ice Cream
+Angle,Marilu,Tanesha;Souvlaki House
+Tanisha,Stephine,Ginette,Marcelene,Leia,Genie;Asian
+Millard,Santiago,Refugio,Ashanti,Leisha,Ambrose,Claudia,Tarra,Angla;Tamarind
+Angle,Tessa,Rea,Anjelica,Joy;Antlers
+Wilfred,Angle,Shara,Saturnina,Ambrose;Bandwagon
+Junior,Thomasine,Tanisha,Lyndon,Vanessa,Michal,Anjelica,Marcelene,Demarcus;Viva Taqueria
+Angle,Alana,Marceline,Loma,Eva;Mehak: Authentic Indian
+Rea,Claudia,Tanesha,Marceline,Saturnina,Elva;Antlers
+Ozella,Tod,Ashanti,Zulma,Kyung,Cristine,So,Tessa;Five Guys Burgers
+Verda,Marceline,Angla,Roberta,Loma,Matilda,Demarcus,Millard;Tamarind
+Patsy,Myrtie,Lida,Ozella,Louanne;Ithaca Bakery
+Clorinda,Synthia,Stacia,Rea,Marni,Cristine,Stepanie,Leisha,Saturnina;Antlers
+Louanne,Vanesa,Lynell;Ale House
+Ruth,Sima,Ashanti,Wendy,Ardelle,Vanessa,Angla,Anabel,Cristine;Taste of Thai
+Refugio,Simona,Ariel,So,Tarra;Tamarind
